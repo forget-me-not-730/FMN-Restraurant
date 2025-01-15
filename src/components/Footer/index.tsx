@@ -44,7 +44,7 @@ const Footer = () => {
             whileTap={{ scale: 1.1 }}
             target={"_blank"}
             rel="noreferrer"
-            href="https://qbentil.me"
+            href="https://github.com/forget-me-not"
             className="text-textColor h-10 w-10 bg-primary rounded-full flex items-center justify-center"
           >
             <BsDribbble />
@@ -53,7 +53,7 @@ const Footer = () => {
             whileTap={{ scale: 1.1 }}
             target={"_blank"}
             rel="noreferrer"
-            href="https://github.com/qbentil"
+            href="https://github.com/forget-me-not"
             className="text-textColor h-10 w-10 bg-primary rounded-full flex items-center justify-center"
           >
             <BsGithub />
@@ -62,7 +62,7 @@ const Footer = () => {
             whileTap={{ scale: 1.1 }}
             target={"_blank"}
             rel="noreferrer"
-            href="https://linkedin.com/in/bentil"
+            href="https://linkedin.com"
             className="text-textColor h-10 w-10 bg-primary rounded-full flex items-center justify-center"
           >
             <BsLinkedin />
@@ -71,7 +71,7 @@ const Footer = () => {
             whileTap={{ scale: 1.1 }}
             target={"_blank"}
             rel="noreferrer"
-            href="https://twitter.com/themanbentil"
+            href="https://twitter.com"
             className="text-textColor h-10 w-10 bg-primary rounded-full flex items-center justify-center"
           >
             <BsTwitter />
@@ -80,7 +80,7 @@ const Footer = () => {
             whileTap={{ scale: 1.1 }}
             target={"_blank"}
             rel="noreferrer"
-            href="https://instagram.com/qbentil"
+            href="https://instagram.com"
             className="text-textColor h-10 w-10 bg-primary rounded-full flex items-center justify-center"
           >
             <BsInstagram />
@@ -89,7 +89,7 @@ const Footer = () => {
             whileTap={{ scale: 1.1 }}
             target={"_blank"}
             rel="noreferrer"
-            href="https://facebook.com/qbentil"
+            href="https://facebook.com"
             className="text-textColor h-10 w-10 bg-primary rounded-full flex items-center justify-center"
           >
             <BsFacebook />

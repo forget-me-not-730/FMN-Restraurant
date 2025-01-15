@@ -64,8 +64,8 @@ const Form = () => {
         </button>
       </form>
       <p className="mb-2 cursor-pointer text-sm text-gray-500 dark:text-gray-400">
-        <a href="mailto:bentilshadrack72@gmail.com" className="hover:underline">
-          bentilshadrack72@gmail.com
+        <a href="mailto:kevin.dream@gmail.com" className="hover:underline">
+          kevin.dream@gmail.com
         </a>
       </p>
       <p className="text-sm cursor-pointer text-gray-500 dark:text-gray-400">
