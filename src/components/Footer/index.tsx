@@ -25,7 +25,7 @@ const Footer = () => {
               alt="Logo"
             />
             <span className="self-center text-2xl font-semibold whitespace-nowrap text-headingColor">
-              Bentilzone
+            FMN
             </span>
           </Link>
         </motion.div>
@@ -37,7 +37,7 @@ const Footer = () => {
             {
               new Date().getFullYear()
             }    
-           {" "}Bentilzone™. All Rights Reserved.
+           {" "}FMN. All Rights Reserved.
         </span>
         <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0 md:text-xl">
           <motion.a

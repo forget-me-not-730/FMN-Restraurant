@@ -1,4 +1,4 @@
-# Bentilzone Online Restaurant App
+# FMN Online Restaurant App
 
 ## STACK USED
 - ReactJS (Typescript)
